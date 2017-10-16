@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
+/*@import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
 /*////////// GLOBAL //////////*/
@@ -128,14 +128,14 @@ iframe {
   background: -ms-linear-gradient(top,  rgba(229,229,229,1) 0%,rgba(255,255,255,1) 99%); /* IE10+ */
   background: linear-gradient(to bottom,  rgba(229,229,229,1) 0%,rgba(255,255,255,1) 99%); /* W3C */
 }
-
+*/
 /*/////// MEDIA ////////*/
 
 img, video, audio, iframe, table, form {
   width: 100%; /* IE */
   max-width: 100%; /* FF, Safari, Chrome */
 }
-
+/*
 /*////////// FIXES //////////*/
 
 * {
@@ -354,5 +354,5 @@ footer {
   border-top: 1px solid; 
 }
 
-
+*/
 
